@@ -1,0 +1,265 @@
+.top-right {
+    position: absolute;
+    top: 20px;
+    right: 200px;
+}
+.top-right a {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.top-right a:hover {
+    background-color: #0056b3;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f8f9fa;
+    padding: 5px 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.navbar a {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.navbar a:hover {
+    background-color: #0056b3;
+}
+
+.navbar a.logo {
+background-color: transparent;
+}
+.navbar img {
+height: 100px; 
+border-radius: 50%;
+}
+a.home-button {
+    display: inline-block;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+a.home-button:hover {
+    background-color: #007BFF;
+}
+
+div.auth-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+
+div.auth-form {
+    max-width: 400px;
+    margin: 0 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+div.auth-form h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+div.auth-form input[type="text"], div.auth-form input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+div.auth-form button {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+div.auth-form button:hover {
+    background-color: #45a049;
+}
+
+div.create-post {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+   
+}
+
+div.create-post h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+div.create-post input[type="text"], div.create-post textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+div.create-post button {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+div.create-post button:hover {
+    background-color: #45a049;
+}
+
+input[type="text"], textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+
+}
+a.edit-button {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+a.edit-button:hover {
+    background-color: #4CAF50;
+}
+
+button.delete-button {
+    width: auto;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button.delete-button:hover {
+    background-color: #4CAF50;
+}
+
+button.logout-button {
+    width: auto;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button.logout-button:hover {
+    background-color: #0056b3;
+}
+
+div.all-posts {
+    border: none;
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+}
+
+div.all-posts h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+div.all-posts div.post {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+div.all-posts div.post h3 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+div.all-posts div.post p {
+    color: #666;
+    font-size: 16px;
+}
+
+a.edit-button, button.delete-button {
+    margin-top: 10px;
+}
+
+div.all-posts div.post .author {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #000;
+}
+textarea#body {
+    width: 500px; /* Adjust this value as needed */
+}
+
+.post-image {
+    width: 180px;
+    height: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px 0;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
