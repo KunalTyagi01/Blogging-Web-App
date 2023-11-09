@@ -1,3 +1,34 @@
+## HOMEPAGE
+
+![homepage](https://github.com/KunalTyagi01/Blogging-Web-App/assets/91309939/8b9fdd6a-4163-42e7-9e2a-1a1beca14e79)
+
+## CREATE POST
+
+![create post](https://github.com/KunalTyagi01/Blogging-Web-App/assets/91309939/b4892251-e34c-4c50-95d5-935a0fd3995c)
+
+## YOUR POST
+
+![Your post section](https://github.com/KunalTyagi01/Blogging-Web-App/assets/91309939/6a103777-bcd0-4228-9185-61fb23a1e0fc)
+
+## EDIT POST
+
+![edit post](https://github.com/KunalTyagi01/Blogging-Web-App/assets/91309939/7e77b98d-7a9a-419c-a6b7-25e71c73d673)
+
+## ALL POST
+
+![all post](https://github.com/KunalTyagi01/Blogging-Web-App/assets/91309939/e5e41f0d-d1e8-4c99-bc94-80ecab6fc1a0)
+
+## POST DATABASE
+
+![post database](https://github.com/KunalTyagi01/Blogging-Web-App/assets/91309939/23bf5f0d-4076-4a27-a448-2e7bd7a02b31)
+
+## USER DATABASE
+
+![user database](https://github.com/KunalTyagi01/Blogging-Web-App/assets/91309939/b62136b0-a2bc-42fb-873b-73888cd93620)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
